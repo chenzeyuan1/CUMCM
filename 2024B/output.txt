@@ -1,0 +1,42 @@
+\newpage
+\begin{appendices}
+\appendix
+\section{附件目录}
+支撑材料列表
+\begin{itemize}
+\item \texttt{chernoff_bound.m}
+\item \texttt{sprt.m}
+\item \texttt{sprt_simulation.m}
+\item \texttt{CinebenchReal.mlx}
+\item \texttt{CinebenchSprt.mlx}
+\item \texttt{ParameterSetting.mlx}
+\item \texttt{Pbl4eachCost.mlx}
+\item \texttt{PlotMinimiseSamples.mlx}
+\item \texttt{SimulateCase1.mlx}
+\item \texttt{cal_p.mlx}
+\item \texttt{cal_p3.mlx}
+\item \texttt{dataPre.mlx}
+\item \texttt{get_p2.mlx}
+\item \texttt{get_p3.mlx}
+\item \texttt{list_data.mlx}
+\item \texttt{p_up.mlx}
+\item \texttt{pbl2.mlx}
+\item \texttt{pbl2_1.mlx}
+\item \texttt{pbl2_2.mlx}
+\item \texttt{pbl2_3.mlx}
+\item \texttt{pbl2_4.mlx}
+\item \texttt{pbl2_5.mlx}
+\item \texttt{pbl2_6.mlx}
+\item \texttt{pbl3.mlx}
+\item \texttt{pbl4For2I.mlx}
+\item \texttt{pbl4For2II.mlx}
+\item \texttt{pbl4For2III.mlx}
+\item \texttt{pbl4For2IV.mlx}
+\item \texttt{pbl4For2V.mlx}
+\item \texttt{pbl4For2VI.mlx}
+\item \texttt{pbl4For3.mlx}
+\item \texttt{pbl4MonTerPbl2.mlx}
+\item \texttt{pbl4MonterKarluo.mlx}
+\item \texttt{pbl4calP.mlx}
+\end{itemize} 
+ \section{MATLAB源代码}
